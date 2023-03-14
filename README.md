@@ -6,32 +6,7 @@ To start project do following commands:
 
 ### Install requirements
 
-1. Clone the repository and open folder in terminal.
-2. Create virtual environment and install requirements:
-
-```cmd
-python3 -m venv venv
-```
-
-If you use Windows:
-
-```cmd
-venv/bin/activate
-```
-
-If you use MacOS or Linux:
-
-```cmd
-source venv/bin/activate
-```
-
-Then
-
-```cmd
-pip3 install requirements.txt
-```
-
-### Start project
+Clone the repository and open folder "game" of "game_and_lviv" in terminal. Run:
 
 ```cmd
 python3 main.py
